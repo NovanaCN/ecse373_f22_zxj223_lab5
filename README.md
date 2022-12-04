@@ -1,4 +1,4 @@
-# ecse_373_ariac_2019_part_1
+# ecse_373_ariac_part_1
 
 **How to run:**
 
